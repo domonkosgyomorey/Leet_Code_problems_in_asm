@@ -1,4 +1,4 @@
 # Leet Code problems solved with assembly
 
-## Referencies
+## Problem referencies
 - [single number II.](https://leetcode.com/problems/single-number-ii/);
