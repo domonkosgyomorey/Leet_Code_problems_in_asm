@@ -1,4 +1,5 @@
 # Leet Code problems solved with assembly
 
 ## Problem referencies
-- [single number II.](https://leetcode.com/problems/single-number-ii/);
+- [Single number II.](https://leetcode.com/problems/single-number-ii/)
+- [Reverse integer](https://leetcode.com/problems/reverse-integer/)
